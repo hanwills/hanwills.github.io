@@ -6,28 +6,15 @@ html {background-image: url("monsteria.jpg"); padding: 100px;}
 
 .h1 {font-family: 'Muli', sans-serif; font-style: 50px;text-align: center;}
 
-
 .h2 {font-family: 'Muli', sans-serif;font-size: 2rem;}
 
-.p {font-family: 'Muli', sans-serif; border: 5px groove #C71585;}
+.p {font-family: 'Muli', sans-serif; border: 5px groove #7b887f;padding: 100px;margin: 100px;}
 
+header {display: flex; padding: 50px; justify-content: space-between;}
+
+.nav {font-family: 'Muli', sans-serif;font-style:10px #7b887f;display: flex;flex-direction: column;}
 
 footer {font-family: 'Muli', sans-serif;font: small-caption;margin: 30px; text-align: center; }
-
-.pic1 {justify-content: center;}
-
-.bar {display:flex; justify-content: flex-end}
-
-.nav {font-family: 'Muli', sans-serif;font-style:10px #C71585;align-content: space-around;}
-
-.nav1 {display: flex;direction: column;}
-
-.nav2 {display: flex;}
-
-.nav3 {display: flex}
-
-.nav4 {display: flex;}
-
 
 /* say hello! css */
 
