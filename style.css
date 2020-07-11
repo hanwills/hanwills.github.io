@@ -20,7 +20,7 @@ footer {font-family: 'Muli', sans-serif;font: small-caption;margin: 30px; text-a
 
 .nav {font-family: 'Muli', sans-serif;font-style:10px #C71585;align-content: space-around;}
 
-.nav1 {display: flex;}
+.nav1 {display: flex;direction: column;}
 
 .nav2 {display: flex;}
 
